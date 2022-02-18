@@ -1,15 +1,9 @@
 # ia-2022-tpi-1
-tpi1
 
+## Objective
 
-Para obter actualizações:
+Automatic resolution of problems using Search Tree algorithms
 
-Indicar o upstream (apenas uma vez):
-git remote add upstream git@github.com:lsl0pes/ia-2022-tpi-1.git
-
-Por cada actualização:
-
-git fetch upstream
-git checkout master
-git merge --allow-unrelated-histories upstream/master
-
+## Source
+Some code was already done by Professor Luis Seabra Lopes.
+The rest had to be completed by students.
